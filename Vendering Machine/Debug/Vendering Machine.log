@@ -1,0 +1,35 @@
+﻿生成启动时间为 2018/9/6 5:40:39。
+     1>项目“C:\Users\Administrator\Desktop\VM\Vendering Machine\Vendering Machine.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNING /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Vendering Machine.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt ADMINISTRATOR.cpp GOODS.cpp HELP.cpp LOGIN.cpp PAY.cpp PICKUPCODE.cpp SHOPPINGCART.cpp "Vendering Machine.cpp" "Vendering MachineDlg.cpp"
+         SHOPPINGCART.cpp
+         GOODS.cpp
+         正在生成代码...
+         正在编译...
+         Vendering MachineDlg.cpp
+         Vendering Machine.cpp
+         PICKUPCODE.cpp
+         PAY.cpp
+         LOGIN.cpp
+         HELP.cpp
+         ADMINISTRATOR.cpp
+         正在生成代码...
+       Link:
+         D:\Microsoft Visual Studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Administrator\Desktop\VM\Debug\Vendering Machine.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Microsoft Visual Studio\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\Administrator\Desktop\VM\Debug\Vendering Machine.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Administrator\Desktop\VM\Debug\Vendering Machine.lib" /MACHINE:X86 "Debug\Vendering Machine.res"
+         Debug\ADMINISTRATOR.obj
+         Debug\GOODS.obj
+         Debug\HELP.obj
+         Debug\InfoFile.obj
+         Debug\LOGIN.obj
+         Debug\PAY.obj
+         Debug\PICKUPCODE.obj
+         Debug\SHOPPINGCART.obj
+         Debug\stdafx.obj
+         "Debug\Vendering Machine.obj"
+         "Debug\Vendering MachineDlg.obj"
+         Vendering Machine.vcxproj -> C:\Users\Administrator\Desktop\VM\Debug\Vendering Machine.exe
+     1>已完成生成项目“C:\Users\Administrator\Desktop\VM\Vendering Machine\Vendering Machine.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:07.84
